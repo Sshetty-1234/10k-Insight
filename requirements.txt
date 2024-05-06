@@ -1,0 +1,6 @@
+pandas
+matplotlib
+streamlit
+llmware
+sec_edgar_downloader
+pdfkit
