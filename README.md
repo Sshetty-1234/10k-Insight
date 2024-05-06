@@ -9,12 +9,15 @@ Q - Why would a potential investor care about this information?
 
 Understanding a company's overall expenditure plan is crucial because it shows a commitment to optimal resource and fund allocation. Furthermore, investors love this  approach since it shows a company's unwavering pursuit of growth and expansion, and not settling for anything less.
 
-### Choice of Tech Stack
-10k-Insight is done entirely through python including the front end (using python's package called Streamlit). I chose to use python primarily because of its capabilites 
-to be able run complex llm models in addition to the fact that its capabilites to be able to analyze and visualize data.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Choice of Tech Stack
+
+The tech stack for 10k-Insight centers on Python, utilizing Streamlit for a sleek and user-friendly frontend. Python's strength in developing intricate LLM models and its prowess in data analysis and visualization were key factors in the decision
 
 
+### A little bit more about the llm model ( RAG framework )
 
+The model I have used for this project is called ling-1b-0.1 which is provided by llmware. I used the framework provided by LLMware which is completely free and allows you to run these llm models locally on your machine. For this project, I used the RAG (Retrieval-Augmented Generation) framework to process in the several 10K documents. By processing in the 10K files into the library and processing it - I was able to get insightful imformation from a company's expenditure plan.
 
 
 
