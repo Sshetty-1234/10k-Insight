@@ -15,7 +15,7 @@ Understanding a company's overall expenditure plan is crucial because it shows a
 The tech stack for 10k-Insight centers on Python, utilizing Streamlit for a sleek and user-friendly frontend. Python's strength in developing intricate LLM models and its prowess in data analysis and visualization were key factors in the decision
 
 
-### A little bit more about the llm model ( RAG framework )
+### A little bit more about the llm of choice ( RAG framework )
 
 The model I have used for this project is called bling-1b-0.1 which is provided by llmware. I used the framework provided by LLMware which is completely free and allows you to run these llm models locally on your machine. For this project, I used the RAG (Retrieval-Augmented Generation) framework to process in the several 10K documents. By processing in the 10K files into the library and processing it - I was able to get insightful information from a company's expenditure plan.
 
