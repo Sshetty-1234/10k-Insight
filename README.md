@@ -19,6 +19,12 @@ The tech stack for 10k-Insight centers on Python, utilizing Streamlit for a slee
 
 The model I have used for this project is called bling-1b-0.1 which is provided by llmware. I used the framework provided by LLMware which is completely free and allows you to run these llm models locally on your machine. For this project, I used the RAG (Retrieval-Augmented Generation) framework to process in the several 10K documents. By processing in the 10K files into the library and processing it - I was able to get insightful information from a company's expenditure plan.
 
+10K-Insights | Python, LLM, RAG Framework, Streamlit
+
+Developed a data analysis tool using Python and Streamlit to provide insights into a company's expenditure on total assets across multiple years from its 10-K reports.
+Implemented a RAG framework with the "bling-1b-0.1" model from LLMware to process and analyze 10-K documents, extracting valuable financial information.
+
+
 
 
 
